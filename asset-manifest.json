@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bet-checker/static/css/main.e145a99d.chunk.css",
+    "main.js": "/bet-checker/static/js/main.90d4ef7e.chunk.js",
+    "main.js.map": "/bet-checker/static/js/main.90d4ef7e.chunk.js.map",
+    "runtime-main.js": "/bet-checker/static/js/runtime-main.2c5d9f93.js",
+    "runtime-main.js.map": "/bet-checker/static/js/runtime-main.2c5d9f93.js.map",
+    "static/js/2.f37be3e4.chunk.js": "/bet-checker/static/js/2.f37be3e4.chunk.js",
+    "static/js/2.f37be3e4.chunk.js.map": "/bet-checker/static/js/2.f37be3e4.chunk.js.map",
+    "static/js/3.f27ff761.chunk.js": "/bet-checker/static/js/3.f27ff761.chunk.js",
+    "static/js/3.f27ff761.chunk.js.map": "/bet-checker/static/js/3.f27ff761.chunk.js.map",
+    "index.html": "/bet-checker/index.html",
+    "static/css/main.e145a99d.chunk.css.map": "/bet-checker/static/css/main.e145a99d.chunk.css.map",
+    "static/js/2.f37be3e4.chunk.js.LICENSE.txt": "/bet-checker/static/js/2.f37be3e4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/bet-checker/static/media/62DRAGZ.ef0e35c0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c5d9f93.js",
+    "static/js/2.f37be3e4.chunk.js",
+    "static/css/main.e145a99d.chunk.css",
+    "static/js/main.90d4ef7e.chunk.js"
+  ]
+}
