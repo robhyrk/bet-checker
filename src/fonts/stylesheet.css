@@ -1,0 +1,12 @@
+@font-face {
+    font-family: '62DRAGZ';
+    src: url('62DRAGZ.eot');
+    src: url('62DRAGZ.eot?#iefix') format('embedded-opentype'),
+        url('62DRAGZ.woff2') format('woff2'),
+        url('62DRAGZ.woff') format('woff'),
+        url('62DRAGZ.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

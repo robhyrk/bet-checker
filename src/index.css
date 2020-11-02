@@ -1,8 +1,23 @@
+@font-face {
+  font-family: '62DRAGZ';
+  src: url('./fonts/62DRAGZ.eot');
+  src: url('./fonts/62DRAGZ.eot?#iefix') format('embedded-opentype'),
+      url('./fonts/62DRAGZ.woff2') format('woff2'),
+      url('./fonts/62DRAGZ.woff') format('woff'),
+      url('./fonts/62DRAGZ.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+h1 {
+  font-family:'62DRAGZ';
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Anton', sans-serif;
+
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
